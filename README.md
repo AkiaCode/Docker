@@ -1,6 +1,8 @@
 # Docker
 My Private docker config
 
-```shell
-docker build -t akiacode/docker .
+
+### Build
+```sh
+$ docker build -t akiacode/docker .
 ```
